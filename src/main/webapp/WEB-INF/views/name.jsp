@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>name.jsp</h2>
+<%--el表达式--%>
+<h2> ${message}</h2>
 </body>
 </html>
